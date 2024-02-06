@@ -1,0 +1,40 @@
+# ignore all wandb stuff
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+*.DS_Store
+
+# Distribution / packaging
+bin/
+build/
+develop-eggs/
+dist/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# wandb
+tracking_scripts/wandb/*
+wandb/*
+
+# saved pt files, because they are large and a lot
+# ignore assgraphs
+*assgraphs__*.pt
+# ignore cellgraphs
+cellgraph__*.pt
+generated_data/fissions/*/*.pt
+generated_data/*/*/*.pt
+generated_data/*/*/*/*.pt
