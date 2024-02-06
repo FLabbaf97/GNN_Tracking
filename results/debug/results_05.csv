@@ -1,0 +1,2 @@
+timediff,colony,seed,assgraphs,f1,tp,fp,fn,tn,num_cells1,num_cells2,precision,recall
+5,240102_30C_fig_SX387_05,0,/mlodata1/hokarami/fari/tracking/generated_data/fissions/ass_graphs_features_locality,1.0,819,0,0,8204,819,819,1.0,1.0

@@ -1,0 +1,6 @@
+timediff,colony,seed,assgraphs,f1,tp,fp,fn,tn,num_cells1,num_cells2,precision,recall
+5,240102_30C_fig_SW182_01,0,/mlodata1/hokarami/fari/tracking/generated_data/scaled_images/fissions/ass_graphs_fourier_10_f10_locality_False,0.9903194578896418,4092,40,40,161705,4132,4191,0.9903194578896418,0.9903194578896418
+5,240102_30C_fig_SW182_02,0,/mlodata1/hokarami/fari/tracking/generated_data/scaled_images/fissions/ass_graphs_fourier_10_f10_locality_False,0.9934669970714125,4410,29,29,187202,4439,4500,0.9934669970714125,0.9934669970714125
+5,240102_30C_fig_SX387_01,0,/mlodata1/hokarami/fari/tracking/generated_data/scaled_images/fissions/ass_graphs_fourier_10_f10_locality_False,0.9813084112149533,1785,34,34,51642,1819,1850,0.9813084112149533,0.9813084112149533
+5,240102_30C_fig_SX387_03,0,/mlodata1/hokarami/fari/tracking/generated_data/scaled_images/fissions/ass_graphs_fourier_10_f10_locality_False,0.9860996041609132,5356,76,75,296034,5435,5519,0.9860088365243005,0.9861903885104032
+5,240102_30C_fig_SX387_05,0,/mlodata1/hokarami/fari/tracking/generated_data/scaled_images/fissions/ass_graphs_fourier_10_f10_locality_False,1.0,960,0,0,9865,961,976,1.0,1.0
