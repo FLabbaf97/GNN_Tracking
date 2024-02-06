@@ -34,7 +34,8 @@ wandb/*
 # ignore assgraphs
 *assgraphs__*.pt
 # ignore cellgraphs
-*cellgraph__*.pt
+cellgraph__*.pkl
+*cellgraph__*.pkl
 generated_data/fissions/*/*.pt
 generated_data/*/*/*.pt
-generated_data/*/*/*/*.pt
+generated_data/*/*/*/*.pkl
